@@ -1,0 +1,3 @@
+Error[002]: Couldn't load HRU file name /home/bastien/Documents/COWAT-ALL/superjams/data/J2K_cowat/parameter/hru_co.par!
+If you are not using an absolute path, please ensure you have defined a workspace directory!
+Error[000]: java.io.FileNotFoundException: /home/bastien/Documents/COWAT-ALL/superjams/data/J2K_cowat/parameter/hru_co.par (Aucun fichier ou dossier de ce type)
